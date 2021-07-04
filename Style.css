@@ -1,0 +1,19 @@
+html {
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    background-color: orange;
+    color: black;
+}
+
+h3 {
+    background-color: blueviolet;
+    color: white;
+}
+
+p {
+    background-color: black;
+    color: tomato;
+}
